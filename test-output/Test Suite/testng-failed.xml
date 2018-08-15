@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Cinemad(failed)">
+    <classes>
+      <class name="diogo.Cinemad.Test.Home.testJwPlayer">
+        <methods>
+          <include name="test_home_dress_new_page"/>
+          <include name="setUpForTests"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- diogo.Cinemad.Test.Home.testJwPlayer -->
+    </classes>
+  </test> <!-- Cinemad(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->
